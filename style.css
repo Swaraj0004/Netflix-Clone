@@ -639,7 +639,7 @@ option {
     padding-top: 40px;
     color: #c2c2c2;
     font-size: 16px;
-    font-weight: 100;
+    font-weight: 700;
 }
 
 .call p span {
@@ -736,5 +736,5 @@ option {
 .text p {
     color: #c2c2c2;
     font-size: 16px;
-    font-weight: 100;
+    font-weight: 700;
 }
